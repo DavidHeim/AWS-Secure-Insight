@@ -40,7 +40,6 @@
  * \asf_license_stop
  *
  */
- 
 #include <asf.h>
 #include "aws_main_task.h"
 
